@@ -47,8 +47,8 @@ This project simulates a secure network infrastructure for a company with 3 bran
 
 ## 🗺️ Topology Views
 
-![Topology View 1](topology1.png)  
-![Topology View 2](topology2.png)
+![Topology View 1](img/topology1.png)  
+![Topology View 2](img/topology2.png)
 
 ---
 
